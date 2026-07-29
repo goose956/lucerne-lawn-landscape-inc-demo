@@ -1,0 +1,40 @@
+{
+  "data": {
+    "siteId": "3a708180-73a3-47f2-9250-c08244c0fd99",
+    "name": "Lucerne Lawn & Landscape Inc",
+    "phone": "+1 207-843-6127",
+    "address": "89 Poplar Rd, Dedham, ME 04429, USA",
+    "headline": "Dedham's Trusted Plumbers — Fast, Reliable Service Across Penobscot County",
+    "aboutText": "Lucerne Lawn & Landscape Inc has been keeping homes and businesses in Dedham and the surrounding Penobscot County area flowing smoothly with dependable, no-nonsense plumbing services. Our team knows Maine homes inside and out — from aging pipes to modern bathroom upgrades — and we show up ready to get the job done right the first time. When you call us at 207-843-6667, you get straight answers, honest pricing, and a crew that treats your home like their own.",
+    "services": [
+      {
+        "name": "Emergency Callouts",
+        "blurb": "Burst pipe at midnight or a leak that can't wait — Lucerne Lawn & Landscape Inc is on call to get to Dedham and nearby homes fast when plumbing problems strike at the worst time."
+      },
+      {
+        "name": "Boiler Repair & Installation",
+        "blurb": "Maine winters are unforgiving, and our team keeps your boiler running efficiently all season long — whether you need a quick repair or a full system replacement."
+      },
+      {
+        "name": "Bathroom Installation",
+        "blurb": "From a simple refresh to a full bathroom fit-out, Lucerne Lawn & Landscape Inc handles all the plumbing work to ensure everything is installed properly and built to last."
+      },
+      {
+        "name": "Leak Detection",
+        "blurb": "Hidden leaks can cause serious damage before you even notice them — we use proven techniques to locate and fix leaks quickly, saving Dedham homeowners time and money."
+      }
+    ],
+    "rating": 0,
+    "reviewCount": 0,
+    "contactEmail": null
+  },
+  "paletteId": "forest-green",
+  "images": {
+    "hero": "./images/hero.png",
+    "service1": "./images/service1.png",
+    "service2": "./images/service2.png",
+    "service3": "./images/service3.png",
+    "service4": "./images/service4.png"
+  },
+  "appsScriptUrl": null
+}
